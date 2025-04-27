@@ -1,7 +1,7 @@
 
 # Brain Oxidizer
 
-Brain Oxudizer (a.k.a. boxy) is a simple [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) code generator written in [rust](https://www.rust-lang.org/).
+Brain Oxidizer (a.k.a. boxy) is a simple [brainfuck](https://en.wikipedia.org/wiki/Brainfuck) code generator written in [rust](https://www.rust-lang.org/).
 Just provide a desired output as parameter and enjoy the brainfuck code that prints it out.
 
 ## Build
